@@ -1,2 +1,2 @@
-# ImmersiveCharactor
-# ImmersiveCharacterDemo
+Demo用のリポジトリです。
+動作に必要なusdaなどは含まれていないのでそのままでは動作しません。
